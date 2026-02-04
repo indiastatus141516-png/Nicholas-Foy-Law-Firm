@@ -63,7 +63,7 @@ export function Contact(){
       <div className="grid cols-2">
         <div className="card">
           <p><strong>Address</strong><br/>2686 Glenwood Ave SE, Suite 110<br/>Atlanta, GA 30316</p>
-          <p><strong>Phone:</strong> <a href="tel:+14705895188">(470) 589‑5188</a><br/><strong>Email:</strong> <a href="mailto:help@nicholasfoylaw.com">help@nicholasfoylaw.com</a></p>
+          <p><strong>Phone:</strong> <a href="tel:+19092810979">(909) 281‑0979</a><br/><strong>Email:</strong> <a href="mailto:help@nicholasfoylaw.com">help@nicholasfoylaw.com</a></p>
           <p><strong>Hours:</strong> Mon–Fri, 9:00am–5:30pm</p>
         </div>
         <div className="card" style={{padding:0,overflow:'hidden'}}>
@@ -82,7 +82,7 @@ export function Footer(){
           <div>
             <h6>Nicholas Foy Law Firm</h6>
             <p className="note">2686 Glenwood Ave SE, Suite 110 Atlanta, GA 30316</p>
-            <p><a href="tel:+14705895188">(470) 589‑5188</a> • <a href="mailto:help@nicholasfoylaw.com">help@nicholasfoylaw.com</a></p>
+            <p><a href="tel:+19092810979">(909) 281‑0979</a> • <a href="mailto:help@nicholasfoylaw.com">help@nicholasfoylaw.com</a></p>
           </div>
           <div>
             <h6>Navigate</h6>

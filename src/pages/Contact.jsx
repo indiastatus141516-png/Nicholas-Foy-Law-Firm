@@ -17,7 +17,7 @@ export default function Contact(){
         <div className="card">
           <h4>Contact Info</h4>
           <p>Address: 123 Loan St, City, State</p>
-          <p>Phone: (123) 456-7890</p>
+          <p>Phone: (909) 281-0979</p>
           <p>Email: info@loanapp.com</p>
         </div>
       </div>
