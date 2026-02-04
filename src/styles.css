@@ -36,8 +36,8 @@ header{position:sticky;top:0;z-index:80;background:#fff;box-shadow:0 1px 0 rgba(
 @media (max-width: 900px){
   .navlinks{display:none}
   .menu-btn{display:inline-flex}
-  .mobile-menu{display:block;position:absolute;left:0;right:0;top:var(--nav-h);background:#fff;border-bottom:1px solid #eee}
-  .mobile-menu.open{display:block}
+  .mobile-menu{display:none}
+  .mobile-menu.open{display:block;position:absolute;left:0;right:0;top:var(--nav-h);background:#fff;border-bottom:1px solid #eee}
   .mobile-menu a{display:block;padding:1rem 4vw;border-top:1px solid #f2f2f2;font-weight:700;color:#0b1324}
   .mobile-menu .btn{margin:1rem}
 }
